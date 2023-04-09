@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HotChocolate.Data.Neo4J" Version="13.0.5" />
+  </ItemGroup>
+
 </Project>
